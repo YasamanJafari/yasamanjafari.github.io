@@ -21,7 +21,7 @@ repository               : "yasamanjafari/yasamanjafari.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yasaman.jpg"
   name             : "Yasaman Jafari"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Computer Science at the University of California San Diego."
