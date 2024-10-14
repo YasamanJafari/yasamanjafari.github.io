@@ -11,7 +11,13 @@ locale                   : "en-US"
 title                    : "Yasaman Jafari"
 title_separator          : "-"
 name                     : &name "Yasaman Jafari"
-description              : &description "personal description"
+description              : &description "Hi! I am Yasaman Jafari, a Ph.D. student in Computer Science at the University of California, San Diego. I am very fortunate to be part of the BergLab, working with Taylor Berg-Kirkpatrick.
+
+Before that, I received my B.Sc. Degree in Computer Engineering from the  University of Tehran.
+
+My research interests include Natural Language Processing and Deep Generative Models.
+
+Feel free to email me at yajafari [at] ucsd [dot] edu!"
 url                      : https://yasamanjafari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yasamanjafari/yasamanjafari.github.io"
@@ -24,7 +30,7 @@ author:
   avatar           : "profile.png"
   name             : "Yasaman Jafari"
   pronouns         : # example: "she/her"  
-  bio              : "Hi! I am Yasaman Jafari, a Ph.D. student in Computer Science at the University of California, San Diego. I am very fortunate to be part of the BergLab, working with Taylor Berg-Kirkpatrick."
+  bio              : "Ph.D. Student in Computer Science at the University of California San Diego."
   location         : "San Diego, California"
   employer         : "University of California San Diego"
   uri              : # URL
