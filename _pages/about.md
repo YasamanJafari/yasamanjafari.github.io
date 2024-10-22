@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Yasaman Jafari"
 author_profile: true
 redirect_from: 
   - /about/
