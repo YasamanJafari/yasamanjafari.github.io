@@ -11,3 +11,8 @@ Hi! I am Yasaman Jafari, a Ph.D. student in Computer Science at the [University 
 
 Feel free to email me at yajafari [at] ucsd [dot] edu!
 
+News
+======
+11/22: Attended SoCalNLP 2024 (UC San Diego), where we had two posters (1) MORL-Prompt and (2) ClimaQA Benchmark!
+11/11-11/17: Attended EMNLP 2024 (Miami, Florida :palm_tree:) as my first NLP conference and presented our work MORL-Prompt!
+
