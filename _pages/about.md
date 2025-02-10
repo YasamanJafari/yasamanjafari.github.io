@@ -13,7 +13,7 @@ Feel free to email me at yajafari [at] ucsd [dot] edu!
 
 News
 ======
-1/22/25: Our paper, ClimaQA Benchmark, has been accepted to ICLR 2025! :tada:
+1/22/25: Our paper, [ClimaQA Benchmark](https://rose-stl-lab.github.io/GENIE/climaqa.html#), has been accepted to ICLR 2025! :tada:
 
 11/22/24: Attended SoCalNLP 2024 (UC San Diego), where we had two posters (1) MORL-Prompt and (2) ClimaQA Benchmark!
 
