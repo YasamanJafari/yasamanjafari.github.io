@@ -13,7 +13,7 @@ Feel free to email me at yajafari [at] ucsd [dot] edu!
 
 News
 ======
-6/23/25: I started my summer internship as a Research Intern at Microsoft (MSR)!
+6/23/25: I started a new position as a Research Intern at Microsoft (MSR)!
 
 5/25: Check out our new pre-print, [The Surprising Soupability of Documents in State Space Models](https://arxiv.org/abs/2505.24033)!
 
