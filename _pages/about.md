@@ -13,6 +13,8 @@ Feel free to email me at yajafari [at] ucsd [dot] edu!
 
 News
 ======
+12/9/25: I passed my advancement exam, and I am a PhD Candidate now :tada:
+
 6/23/25: I started a new position as a Research Intern at Microsoft (MSR)!
 
 5/25: Check out our new pre-print, [The Surprising Soupability of Documents in State Space Models](https://arxiv.org/abs/2505.24033)!
