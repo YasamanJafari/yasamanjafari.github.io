@@ -13,6 +13,8 @@ Feel free to email me at yajafari [at] ucsd [dot] edu!
 
 News
 ======
+29/6/26: I started a new position as a Siri Intern at Apple! :tada:
+
 12/9/25: I passed my advancement exam, and I am a PhD Candidate now :tada:
 
 6/23/25: I started a new position as a Research Intern at Microsoft (MSR)!
